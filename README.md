@@ -1,0 +1,2 @@
+# IA-TP
+Algoritmo genetico
